@@ -7,3 +7,7 @@ var weight = 220
 var onlineStatus = true
 var cfuCompleted = false
 
+console.log(email)
+console.log(age)
+console.log(onlineStatus)
+
